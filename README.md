@@ -21,3 +21,4 @@ docker run -it <IMAGE_ID> /bin/bash
 ```
 
 You can now access the artifacts on the filesystem and confirm build results.
+#
