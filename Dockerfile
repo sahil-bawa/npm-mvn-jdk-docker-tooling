@@ -1,6 +1,7 @@
 FROM sapmachine:latest
 
 #### copy context if necessary
+# use COPY
 
 ##### avoid start of interactive input
 ENV DEBIAN_FRONTEND noninteractive
